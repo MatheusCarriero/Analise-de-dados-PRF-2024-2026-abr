@@ -1,0 +1,35 @@
+{
+  "registros": 169160,
+  "periodo": "2024-01-01 a 2026-04-30",
+  "observacao_2026": "O arquivo de 2026 enviado possui dados até 2026-04-30, portanto as comparações anuais com 2024 e 2025 devem considerar que 2026 é parcial.",
+  "acidentes_por_ano": {
+    "2024": 73156,
+    "2025": 72529,
+    "2026": 23475
+  },
+  "mortos_por_ano": {
+    "2024": 6160,
+    "2025": 6043,
+    "2026": 1918
+  },
+  "feridos_por_ano": {
+    "2024": 84526,
+    "2025": 83550,
+    "2026": 27557
+  },
+  "taxa_letalidade_por_ano_pct": {
+    "2024": 8.42,
+    "2025": 8.33,
+    "2026": 8.17
+  },
+  "mortos": 14121,
+  "feridos": 195633,
+  "uf_top": "MG",
+  "uf_top_qtd": 21851,
+  "causa_top": "Ausência de reação do condutor",
+  "causa_top_qtd": 25834,
+  "taxa_letalidade_geral_pct": 8.35,
+  "registros_2024": 73156,
+  "registros_2025": 72529,
+  "registros_2026": 23475
+}
